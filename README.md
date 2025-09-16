@@ -65,8 +65,8 @@ Random Forest was chosen as the final model for its balance between precision an
 ---
 
 ## Reports
-- [Final Project Report (PDF)](docs/Project_Report_Final.pdf)  
-- [Colab Notebook Export (PDF)](docs/Colab_Work.pdf)  
+- [Final Project Report (PDF)](docs/Project_report_final.pdf)  
+- [Colab Notebook Export (PDF)](docs/Colab_work.pdf)  
 
 ---
 
